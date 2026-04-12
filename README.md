@@ -1,6 +1,6 @@
 <!-- ══════════════════════════════════ HEADER ══════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=1a0533&height=200&text=Fatima%20Noor&fontAlign=50&fontAlignY=42&fontSize=62&fontColor=f0abfc&desc=Software%20Engineer%20--%20Full%20Stack%20%7C%20AI%2FML%20%7C%205%C3%97%20Hackathon%20Winner&descAlign=50&descAlignY=64&descSize=15&descColor=c084fc&animation=fadeIn&fontFamily=Raleway"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=1a0533&height=200&text=Fatima%20Noor&fontAlign=50&fontAlignY=42&fontSize=62&fontColor=f0abfc&desc=Software%20Engineer%20--%20Full%20Stack%20%7C%20AI%2FML%20%7C%205%C3%97%20Hackathon%20Winner&descAlign=50&descAlignY=64&descSize=15&descColor=c084fc&animation=fadeIn&fontFamily=Playfair+Display"/>
 
 <!-- TYPING SVG -->
 <p align="center">
