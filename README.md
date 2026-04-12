@@ -1,48 +1,60 @@
-<!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:a855f7,100:ec4899&height=200&section=header&text=Fatima%20Noor&fontSize=52&fontColor=ffffff&fontAlign=50&fontAlignY=36&desc=PUCIT%20'26%20%7C%20Software%20Engineer%20%7C%205%C3%97%20Hackathon%20Winner&descAlign=50&descAlignY=56&descSize=15&animation=fadeIn"/>
+<!-- ═══════════════════════════════════════ HEADER ══════════════════════════════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=1a0533&height=180&text=Fatima%20Noor&fontAlign=50&fontAlignY=45&fontSize=58&fontColor=f0abfc&desc=Software%20Engineer%20%E2%80%94%20Full%20Stack%20%7C%20AI%2FML%20%7C%205%C3%97%20Hackathon%20Winner&descAlign=50&descAlignY=68&descSize=15&descColor=c084fc&animation=fadeIn&fontFamily=Pacifico"/>
 
 <!-- TYPING SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=a855f7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Fatima+%F0%9F%91%8B;Software+Engineer+%7C+Full+Stack+%7C+AI%2FML;Django+%E2%80%A2+FastAPI+%E2%80%A2+React+%E2%80%A2+LLMs;5%C3%97+Hackathon+Winner+%F0%9F%8F%86;Building+things+that+work+at+3am+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=c084fc&center=true&vCenter=true&width=650&lines=Building+things+that+work+at+3am+%E2%9A%A1;Django+%E2%80%A2+FastAPI+%E2%80%A2+React+%E2%80%A2+LLMs+%E2%80%A2+RAG;Graduating+PUCIT+%E2%80%94+May+2026+%F0%9F%8E%93;Open+to+Software+Engineer+roles+%F0%9F%9F%A2" alt="Typing SVG" />
 </p>
 
-<!-- SOCIAL BADGES -->
+<!-- ICON LINKS -->
 <p align="center">
-  <a href="https://fatimanoor.me"><img src="https://img.shields.io/badge/Portfolio-fatimanoor.me-a855f7?style=for-the-badge&logo=Firefox&logoColor=white"/></a>
+  <a href="https://fatimanoor.me" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-1a0533?style=for-the-badge&logo=Firefox&logoColor=f0abfc"/>
+  </a>
   &nbsp;
-  <a href="https://linkedin.com/in/fatimanooor"><img src="https://img.shields.io/badge/LinkedIn-fatimanooor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/fatimanooor" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-1a0533?style=for-the-badge&logo=linkedin&logoColor=f0abfc"/>
+  </a>
   &nbsp;
-  <a href="mailto:fatima.noor6387@gmail.com"><img src="https://img.shields.io/badge/Gmail-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:fatima.noor6387@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-1a0533?style=for-the-badge&logo=gmail&logoColor=f0abfc"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/fatiima-noor" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-1a0533?style=for-the-badge&logo=github&logoColor=f0abfc"/>
+  </a>
 </p>
 
 <br/>
 
----
+<!-- ══════════════════════════════════════ ABOUT ME ════════════════════════════════════ -->
 
-<!-- ABOUT SECTION -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=3"/>
-
-### 👩‍💻 about me
-
-```python
-fatima = {
-    "university":  "PUCIT — BS Software Engineering '26",
-    "stack":       ["Django", "FastAPI", "React", "PostgreSQL", "Docker", "LLMs", "RAG"],
-    "currently":   "Building StudyMate — an AI-powered study platform (FYP)",
-    "hackathons":  "5× winner 🏆",
-    "looking_for": "Software Engineer role — open to work May 2026",
-    "fun_fact":    "I make my best decisions at 3am in hackathon war rooms ⚡"
-}
-```
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=1a0533&height=38&text=%E2%9C%A8%20About%20Me&fontAlign=10&fontAlignY=70&fontSize=16&fontColor=f0abfc&fontFamily=Pacifico"/>
 
 <br/>
 
----
+<img align="right" width="260" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="woman coding gif"/>
 
-<!-- SKILLS SECTION BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:16213e&height=3"/>
+| | |
+|---|---|
+| 🎓 | **PUCIT** — BS Software Engineering, graduating May 2026 |
+| 💻 | Full-stack engineer: Django · FastAPI · React · PostgreSQL · Docker |
+| 🤖 | AI/ML: LLMs · RAG pipelines · Vector search · Semantic retrieval |
+| 🏆 | 5× Hackathon winner — I make good calls at 3am |
+| 🔭 | Currently building **StudyMate** — my AI-powered FYP |
+| 🌐 | Interactive AI portfolio chatbot at [fatimanoor.me](https://fatimanoor.me) |
+| 💌 | Open to SE roles — **May 2026** |
 
-### 🛠️ tech stack
+<br clear="right"/>
+
+<br/>
+
+<!-- ══════════════════════════════════════ TECH STACK ══════════════════════════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d1f3c&height=38&text=%F0%9F%9B%A0%EF%B8%8F%20Tech%20Stack&fontAlign=10&fontAlignY=70&fontSize=16&fontColor=7dd3fc&fontFamily=Pacifico"/>
+
+<br/>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,react,tailwind,tensorflow&perline=7&theme=dark" />
@@ -56,61 +68,62 @@ fatima = {
 
 <br/>
 
----
+<!-- ══════════════════════════════════════ PROJECTS ════════════════════════════════════ -->
 
-<!-- PROJECTS SECTION -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:0d1117&height=3"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d2a1f&height=38&text=%F0%9F%93%8C%20Featured%20Projects&fontAlign=13&fontAlignY=70&fontSize=16&fontColor=6ee7b7&fontFamily=Pacifico"/>
 
-### 📌 featured projects
+<br/>
 
 <table>
 <tr>
 <td width="50%" valign="top">
-
-**🤖 [StudyMate — AI Study Assistant](https://github.com/fatiima-noor/studymate)**
-> *Final Year Project*
-
-Full-stack study platform with **RAG-based document ingestion**, adaptive quizzes, semantic search, real-time chat, STT/TTS. Led backend architecture and LLM integration.
+<h3>🤖 <a href="https://github.com/fatiima-noor/studymate">StudyMate — AI Study Assistant</a></h3>
+<em>Final Year Project</em>
+<br/><br/>
+Full-stack platform with <strong>RAG-based document ingestion</strong>, adaptive quizzes, semantic search, real-time chat, STT/TTS. Led backend architecture and LLM integration.
+<br/><br/>
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-a855f7?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
+<h3>🎓 <a href="https://github.com/fatiima-noor/skillsphere">SkillSphere — Microlearning Platform</a></h3>
+<br/>
+Role-based learning platform with dashboards for learners, mentors and admins. JWT auth, WebSocket notifications, Swagger-documented REST API.
+<br/><br/>
 
-**🎓 [SkillSphere — Microlearning Platform](https://github.com/fatiima-noor/skillsphere)**
-
-Role-based learning platform with dashboards for learners, mentors and admins. JWT auth with token rotation, WebSocket notifications, Swagger-documented REST API.
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
 ![DRF](https://img.shields.io/badge/DRF-ff1709?style=flat-square&logo=django&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-black?style=flat-square&logo=socketdotio&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
+<h3>🧠 <a href="https://fatimanoor.me">AI Portfolio</a></h3>
+<br/>
+Interactive personal site with a <strong>RAG-based LLM chatbot</strong> — semantic search over my own work, automated email handling and real-time conversation.
+<br/><br/>
 
-**🧠 [AI Portfolio](https://fatimanoor.me)**
-
-Interactive personal site with a **RAG-based LLM chatbot** — semantic search over my own work, automated email handling and real-time conversation.
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![LLM](https://img.shields.io/badge/LLM-a855f7?style=flat-square&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-ec4899?style=flat-square&logoColor=white)
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
+![RAG](https://img.shields.io/badge/RAG-a855f7?style=flat-square)
+![Vector Search](https://img.shields.io/badge/Vector%20Search-ec4899?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
-
-**📋 [TaskFlow — PM Dashboard](https://github.com/fatiima-noor/taskflow)**
-
+<h3>📋 <a href="https://github.com/fatiima-noor/taskflow">TaskFlow — PM Dashboard</a></h3>
+<br/>
 Collaborative project management tool with real-time task tracking, WebSocket notifications, and role-based permissions.
+<br/><br/>
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-black?style=flat-square&logo=socketdotio&logoColor=white)
 
 </td>
 </tr>
@@ -118,59 +131,88 @@ Collaborative project management tool with real-time task tracking, WebSocket no
 
 <br/>
 
----
+<!-- ═══════════════════════════════════════ HACKATHONS ═══════════════════════════════════ -->
 
-<!-- HACKATHONS -->
-
-### 🏆 hackathons — 5× and counting
-
-<div align="center">
-
-| | Event | Venue | Result |
-|:---:|:---|:---|:---:|
-| 🥇 | **Technoverse'25** | COMSATS Lahore | Winner |
-| 🥇 | **PUCON'25** | Punjab University | Winner |
-| 🥈 | **SOFTEC'25** | FAST NUCES Lahore | Runner-up |
-| 🥈 | **RC3'25** | Riphah International University | Runner-up |
-| 🥈 | **Techverse'26** | University of Management & Technology | Runner-up |
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=1f1206&height=38&text=%F0%9F%8F%86%20Hackathons&fontAlign=9&fontAlignY=70&fontSize=16&fontColor=fcd34d&fontFamily=Pacifico"/>
 
 <br/>
 
----
+<p align="center">
 
-<!-- STATS -->
+<table align="center">
+<tr>
+  <td align="center" width="180" style="border: 1px solid #fcd34d; padding: 16px; border-radius: 8px;">
+    <div><strong>🥇 Winner</strong></div>
+    <div><strong>Technoverse'25</strong></div>
+    <div><sub>COMSATS Lahore</sub></div>
+  </td>
+  <td width="12"></td>
+  <td align="center" width="180" style="border: 1px solid #fcd34d; padding: 16px; border-radius: 8px;">
+    <div><strong>🥇 Winner</strong></div>
+    <div><strong>PUCON'25</strong></div>
+    <div><sub>Punjab University</sub></div>
+  </td>
+  <td width="12"></td>
+  <td align="center" width="180" style="border: 1px solid #a855f7; padding: 16px; border-radius: 8px;">
+    <div><strong>🥈 Runner-Up</strong></div>
+    <div><strong>SOFTEC'25</strong></div>
+    <div><sub>FAST NUCES Lahore</sub></div>
+  </td>
+  <td width="12"></td>
+  <td align="center" width="180" style="border: 1px solid #a855f7; padding: 16px; border-radius: 8px;">
+    <div><strong>🥈 Runner-Up</strong></div>
+    <div><strong>RC3'25</strong></div>
+    <div><sub>Riphah Intl University</sub></div>
+  </td>
+  <td width="12"></td>
+  <td align="center" width="180" style="border: 1px solid #a855f7; padding: 16px; border-radius: 8px;">
+    <div><strong>🥈 Runner-Up</strong></div>
+    <div><strong>Techverse'26</strong></div>
+    <div><sub>UMT</sub></div>
+  </td>
+</tr>
+</table>
 
-### 📊 github stats
+</p>
+
+<br/>
+
+<!-- ═══════════════════════════════════════ STATS ═══════════════════════════════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=1a0533&height=38&text=%F0%9F%93%8A%20GitHub%20Stats&fontAlign=11&fontAlignY=70&fontSize=16&fontColor=f0abfc&fontFamily=Pacifico"/>
+
+<br/>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=fatiima-noor&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=ec4899&text_color=e2e8f0&count_private=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=fatiima-noor&show_icons=true&hide_border=true&bg_color=1a0533&title_color=f0abfc&icon_color=c084fc&text_color=e9d5ff&count_private=true&rank_icon=github"/>
   &nbsp;
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatiima-noor&layout=compact&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=e2e8f0" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatiima-noor&layout=compact&hide_border=true&bg_color=1a0533&title_color=f0abfc&text_color=e9d5ff"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=fatiima-noor&hide_border=true&background=0d1117&ring=a855f7&fire=ec4899&currStreakLabel=a855f7&sideLabels=a855f7&dates=94a3b8&sideNums=e2e8f0&currStreakNum=e2e8f0" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=fatiima-noor&hide_border=true&background=1a0533&ring=f0abfc&fire=c084fc&currStreakLabel=f0abfc&sideLabels=c084fc&dates=a78bfa&sideNums=e9d5ff&currStreakNum=e9d5ff"/>
 </p>
 
 <br/>
 
----
+<!-- ═══════════════════════════════════════ SNAKE ════════════════════════════════════════ -->
 
-<!-- SNAKE -->
-
-### 🐍 watch the snake eat my contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fatiima-noor/fatiima-noor/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fatiima-noor/fatiima-noor/output/github-contribution-grid-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/fatiima-noor/fatiima-noor/output/github-contribution-grid-snake.svg"/>
-</picture>
-
-> ⚙️ *See [SNAKE_SETUP.md](./SNAKE_SETUP.md) to activate this animation*
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d2a1f&height=38&text=%F0%9F%90%8D%20Contribution%20Snake&fontAlign=14&fontAlignY=70&fontSize=16&fontColor=6ee7b7&fontFamily=Pacifico"/>
 
 <br/>
 
-<!-- FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,50:a855f7,100:667eea&height=120&section=footer"/>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fatiima-noor/fatiima-noor/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fatiima-noor/fatiima-noor/output/github-contribution-grid-snake.svg"/>
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/fatiima-noor/fatiima-noor/output/github-contribution-grid-snake.svg"/>
+  </picture>
+</p>
+
+<p align="center"><sub>⚙️ Snake setup → see <a href="./SNAKE_SETUP.md">SNAKE_SETUP.md</a></sub></p>
+
+<br/>
+
+<!-- ═══════════════════════════════════════ FOOTER ══════════════════════════════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=1a0533&height=60&text=Let%27s%20build%20something%20that%20matters%20%E2%9C%A8&fontAlign=50&fontAlignY=60&fontSize=16&fontColor=f0abfc&fontFamily=Pacifico"/>
