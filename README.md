@@ -48,10 +48,10 @@
 
 | | |
 |:---:|:---|
-| 🎓 | **PUCIT** — BS Software Engineering, graduating May 2026 |
+| 🎓 | **PUCIT** — BS Software Engineering |
 | 💻 | Full-stack engineer: Django · FastAPI · React · PostgreSQL · Docker |
 | 🤖 | AI/ML: LLMs · RAG pipelines · Vector search · Semantic retrieval |
-| 🏆 | 5× Hackathon winner — I make good calls at 3am |
+| 🏆 | 6× Hackathon winner — I make good calls at 3am |
 | 🔭 | Currently building **StudyMate** — my AI-powered FYP |
 | 🌐 | Interactive AI portfolio chatbot at [fatimanoor.me](https://fatimanoor.me) |
 | 💌 | Open to SE roles — **May 2026** |
